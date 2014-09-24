@@ -30,6 +30,16 @@
 
 ---
 
+## Designing the teams
+> (WIP - emphasize importance, show envelopes as principle but also material, provide template, "concept of adding "trouble makers" to teams)
+
+---
+
+## Introducing the Design Studio Method
+> (WIP - slide free, show examples of visualization, list tips, show wall layout, show labeled kapa boards etc)
+
+---
+
 ## Insight: "Just Enough Research"
 
 #### Goal 
@@ -53,7 +63,12 @@
 - Empathy Map (we can show the refined hagebau poster, it shows the time/journey aspect very well)
 - TBD: short introduction of "jobs to be done" (for advanced usage?)
 
-*Book recommendations* 
-Just enough research 
-Kim Goodwin 
-…? 
+*Book recommendations*  
+Just enough research  
+Kim Goodwin  
+…?
+
+---
+
+## Design Studio Facilitation
+> (WIP: tips & tricks on facilitation, timeboxing, moderation, reboot)
