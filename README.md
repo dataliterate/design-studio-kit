@@ -50,31 +50,52 @@
 
 ## Insight: "Just Enough Research"
 
-#### Goal 
+### Goal 
 - Understand the people you're designing for.
 - understand their needs, problems, behavior
 - feel their delight, feel their pain (empathy)
 - observe HOW they behave and understand WHY they do things
-- "research is formalized curiosity" (Sarah Parmenter, @sazzy)
+
+> "research is formalized curiosity" (Sarah Parmenter, @sazzy)
 
 ### "Guerilla User Research" 
-> … because some research is better than no research.
+… because some research is better than no research.
 
-**Techniques** 
-- Observation (document on photo/video, stay in the background, ...)
-- Interviews (how to pick the right people, eg. "extreme users", rules, tricks …)
-- Another interactive technique where you let interviewees sketch something?
+#### Why do we carry out research?
+- To frame the problem right?“Framing the problem right is 90% of the work” (Einstein)
+- To achieve good, relevant and sustainable solutions
 
-**Artifacts** 
-- Personas (we show an example persona)
-- Scenarios (we show an example scenario, where a certain need or problem is embedded in a story)
-- Empathy Map (we can show the refined hagebau poster, it shows the time/journey aspect very well)
-- TBD: short introduction of "jobs to be done" (for advanced usage?)
+#### How to carry out design research? 
 
-*Book recommendations*  
-Just enough research  
-Kim Goodwin  
-…?
+**1. Define the problem and what you want to find out**
+
+2. How: Plan and prepare for the Research (research techniques)
+
+*Research techniques*
+- Say: Interviews
+- Do: Observation, diaries, etc
+- Make: Sketching, collages, etc
+
+**3. Who: Find the right people to interview**
+- Experienced something specific recently
+- Extreme users
+
+**4. Collect the data: Carrying out interviews**
+- Tips to carry out interviews
+- Tips on recording interviews
+
+**5. Analyze the data**
+
+**6. Report the results**
+- Personas  (developed according to specific jobs to be done and or to specific contexts of use)
+- Scenarios
+- Empathy Map 
+- Jobs to be done
+
+[Research Slidedeck](research-slidedeck.pdf)
+
+#### Book recommendations
+[Just enough research](link.html) by Erika Hall (Rosenfeld Media)
 
 ---
 
