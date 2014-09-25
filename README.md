@@ -8,11 +8,19 @@
 
 ## General Intro
 
-### Hello
-- People Introduction
+### Hello, my name is …
+- Start the day with people introduction
+- Give a simple introduction task to participants: let them sketch something in 5 minutes, put their name on the sheet and then shortly introduce themselves (name, function) and their sketch. This usually prevents too long anecdotes and job title bragging and also sets the mode for the day, where everybody will use a pen and paper and limited time.
 
-### Logistics
-- Notes on timing and breaks
+[Example Introduction Task](introduction-task-example.pdf)
+
+### Housekeeping
+- Introduce yourself again as the instructor/facilitator of the day
+- Present a well structured agenda of the day
+- Talk about breaks – they are the only slots for coffee and checking mails (otherwise the energy breaks)
+- Only use as many slides as necessary. It's about making things and collaborating, not listening to a single person.
+
+[Example Housekeeping slidedeck](housekeeping-example.pdf)
 
 ### Goals
 - Making → not talking
