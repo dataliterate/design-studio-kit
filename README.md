@@ -152,12 +152,12 @@ Some introductory words:
 These are the three building blocks of Design Studio:
 
 1. **SKETCH**
-- everybody uses pen and paper and sketches
-- nobody talks during this phase
-- time constraint
-- don’t think too much, just sketch. Especially in early iterations, try to fill as many boxes of the 8-up as possible (show 8-up on the wall, fill 6 boxes)
-- don’t write text (unless singular words are needed)
-- give names to your ideas (it helps you reflect and pitch them better)
+-- everybody uses pen and paper and sketches
+-- nobody talks during this phase
+-- time constraint
+-- don’t think too much, just sketch. Especially in early iterations, try to fill as many boxes of the 8-up as possible (show 8-up on the wall, fill 6 boxes)
+-- don’t write text (unless singular words are needed)
+-- give names to your ideas (it helps you reflect and pitch them better)
 
 Sketching Tips: there are always participants telling you (or the whole group) how bad they are at drawing. Pick one of those and let them draw a line. Ask the group if they recognize it as a line. Do the same with a circle, a rectangle and a triangle. Now combine those basic geometric elements and eg. sketch a Dropdown Menu. Now everybody understands that even the people claiming to be bad at drawing are actually really good in sketching.
 
@@ -166,15 +166,15 @@ TODO
 - emphasis
 
 2. **PITCH**
-- one person talks, everybody else just listens
-- before you pitch: name the goals, give some context and set expectations
+-- one person talks, everybody else just listens
+-- before you pitch: name the goals, give some context and set expectations
 (put the 8-ups/1-ups on the wall for the pitch. from left to right: rows for participant, columns for iterations)
 
 3. **CRITIQUE**
-- clarification: ask your questions
-- give critique based on the pitched goals and context
-- collect 2-3 remarks why an idea works well
-- collect 1-2 remarks why an idea doesn’t work so well
+-- clarification: ask your questions
+-- give critique based on the pitched goals and context
+-- collect 2-3 remarks why an idea works well
+-- collect 1-2 remarks why an idea doesn’t work so well
 (red and green pen. use it on the rough sketches you did before and are now on the wall!)
  
 
