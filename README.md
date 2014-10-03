@@ -57,7 +57,7 @@ It’s also a great chance to involve important stakeholders and decision makers
 
 ---
 
-### People-centric
+### People-centered
 Every Design Studio Workshop should be based on insight. To gather it, we usually spend a lot of effort in preparation of the workshop: it starts with asking good questions to relevant stakeholders, but most often continues with user and literature research. We think this doesn’t have to be a huge project, but little research is always better than no research!
 
 #### Goal of design research
