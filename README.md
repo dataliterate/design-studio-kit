@@ -100,13 +100,17 @@ Every Design Studio Workshop should be based on insight. To gather it, we usuall
 
 **6. Synthesize and use the results**
 - Empathy Map
+[Link 1](http://uxmag.com/articles/how-to-use-persona-empathy-mapping), [Link 2](https://dschool.stanford.edu/wp-content/themes/dschool/method-cards/empathy-map.pdf)
 - User Journey
+[Link 1](http://www.servicedesigntools.org/tools/8), [Link 2](http://theuxreview.co.uk/user-journeys-beginners-guide/)
 - Persona
+[Link 1](http://uxmag.com/articles/personas-the-foundation-of-a-great-user-experience), [Link 2](http://en.wikipedia.org/wiki/Persona_(user_experience))
 - Scenario
+[Link 1](http://www.uxforthemasses.com/scenario-mapping/), [Link 2](http://www.lynda.com/Web-User-Experience-tutorials/UX-Design-Techniques-Creating-Scenarios-Storyboards/148581-2.html)
 - Jobs to be done
-(add external links)
+[Link 1](http://jobstobedone.org/), [Link 2](https://medium.com/the-job-to-be-done), [Link 3](http://innovatorstoolkit.com/content/technique-1-jobs-be-done)
 
-[Research Slidedeck](research-slidedeck.pdf)
+[Research Slidedeck](material/precious-designstudio-research.pdf)
 
 [Example Persona](material/precious-persona-example.pdf)
 [Example Scenario/Task](material/precious-scenario-example.pdf)
