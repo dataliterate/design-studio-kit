@@ -10,7 +10,7 @@ Since having been trained in the Design Studio Method in 2013 by Todd Zaki Warfe
 
 ---
 
-## BEFORE: PREPARE
+## Before: Prepare
 There are a few things that should be considered long enough before you actually do a workshop. The effort depends on the duration of the workshop, the quantity and quality of the team and on the field or topic it’s been done for.
 
 ### Designing the teams
@@ -115,7 +115,7 @@ Kim Goodwin
 
 ---
 
-## DURING: MAKE
+## During: Make
 
 ### Hello, my name is …
 - Start the day with a short people introduction
@@ -154,16 +154,12 @@ These are the three building blocks of Design Studio:
 **1. SKETCH**
 - everybody uses pen and paper and sketches
 - nobody talks during this phase
-- time constraint
+- time limit
 - don’t think too much, just sketch. Especially in early iterations, try to fill as many boxes of the 8-up as possible (show 8-up on the wall, fill 6 boxes)
 - don’t write text (unless singular words are needed)
 - give names to your ideas (it helps you reflect and pitch them better)
 
-Sketching Tips: there are always participants telling you (or the whole group) how bad they are at drawing. Pick one of those and let them draw a line. Ask the group if they recognize it as a line. Do the same with a circle, a rectangle and a triangle. Now combine those basic geometric elements and eg. sketch a Dropdown Menu. Now everybody understands that even the people claiming to be bad at drawing are actually really good in sketching.
-
-TODO
-- geschwungene linien
-- emphasis
+_Sketching Tip:_ there are always participants telling you (or the whole group) how bad they are at drawing. Pick one of those and let them draw a line. Ask the group if they recognize it as a line. Do the same with a circle, a rectangle and a triangle. Now combine those basic geometric elements and eg. sketch a Dropdown Menu. Now everybody understands that even the people claiming to be bad at drawing are actually really good in sketching.
 
 **2. PITCH**
 - one person talks, everybody else just listens
@@ -178,34 +174,31 @@ TODO
 (red and green pen. use it on the rough sketches you did before and are now on the wall!)
  
 
-[Example Intro Wall](precious-designstudio-introwall.jpg)
-[„Sketch, Pitch, Critique“ Template](precious-sketch-pitch-critique.pdf)
+[Example Intro Wall](material/precious-design-studio-intro.jpg)
+[„Sketch, Pitch, Critique“ Template](material/precious-sketch-pitch-critique.pdf)
 
 ---
 
 ### Design Studio Flow and Structure
+There’s no general rule for what the best timeframes are, it really depends on the groups, their experience and the facilitation. We usually start the first sketching iteration with a more limited duration of 3 min, then loosen it a bit to 5 min. We are very sharp with the sketching timing, but sometimes let people pitch or critique a bit longer. Although we want participants to be aware of their time limits, we also don’t want to interrupt a good flow of presentation or critique conversation. 
 
-> TODO (noch unvollständig)
-- general structure
-- sketch > pitch > critique (and so on)
+- **Example timings for solo iterations**
+- Sketch: 5 min
+- Pitch: 1,5 min
+- Critique: 2 min
 
-- **Example timings:**
-- Sketch: 5 min (sharp, do the very first iteration in 3 min)
-- Pitch: 1,5 min (facilitate)
-- Critique: 2 min (facilitate)
-
----
-
-### Tips: Design Studio Facilitation
-> TODO
+- **Example timings for group iterations**
+- Sketch: 10-15 min
+- Pitch: 1,5-2 min
+- Critique: 2-3 min
 
 ---
 
-## AFTER: DOCUMENT
+## After: Document
 In order to keep the ideas and thoughts for the future in a structured and accessible way, we usually document the workshop results and provide them with participants afterwards. This also helps to go back to ideas that have happened in early iterations but have been discarded in favor of other approaches. In this way, the output of a workshop is conserved for future reference.
 
 It’s also possible to hand out the actual walls, so project teams can put them in their working space and go back to it from time to time (or keep on iterating and annotating the original sketches).
 
-> TODO (noch unvollständig)
+> TODO (wird ergänzt)
 
 [Design Studio Workshop Documentation Example](precious-workshop-documentation-example.pdf)
