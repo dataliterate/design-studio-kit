@@ -110,15 +110,14 @@ Every Design Studio Workshop should be based on insight. To gather it, we usuall
 - Jobs to be done
 [Link 1](http://jobstobedone.org/), [Link 2](https://medium.com/the-job-to-be-done), [Link 3](http://innovatorstoolkit.com/content/technique-1-jobs-be-done)
 
-[Research Slidedeck](material/precious-designstudio-research.pdf)
-
-[Example Persona](material/precious-persona-example.pdf)
+[Research Slidedeck](material/precious-designstudio-research.pdf)  
+[Example Persona](material/precious-persona-example.pdf)  
 [Example Scenario/Task](material/precious-scenario-example.pdf)
 
 ---
 
 #### Book recommendations
-[Just enough research](http://www.abookapart.com/products/just-enough-research) by Erika Hall (A Book Apart)
+[Just enough research](http://www.abookapart.com/products/just-enough-research) by Erika Hall (A Book Apart)  
 [Designing for the Digital Age: How to Create Human-Centered Products and Services](http://www.amazon.com/Designing-Digital-Age-Human-Centered-Products/dp/0470229101) by Kim Goodwin (Wiley)
 
 ---
@@ -167,7 +166,7 @@ These are the three building blocks of Design Studio:
 
 _Sketching Tip:_ there are always participants telling you (or the whole group) how bad they are at drawing. Pick one of those and let them draw a line. Ask the group if they recognize it as a line. Do the same with a circle, a rectangle and a triangle. Now combine those basic geometric elements and eg. sketch a Dropdown Menu. Now everybody understands that even the people claiming to be bad at drawing are actually really good in sketching.
 
-[8-up Template](material/precious-8up.pdf)
+[8-up Template](material/precious-8up.pdf)  
 [1-up Template](material/precious-1up.pdf)
 
 **2. PITCH**
@@ -182,9 +181,9 @@ _Sketching Tip:_ there are always participants telling you (or the whole group) 
 - collect 1-2 remarks why an idea doesn’t work so well
 (red and green pen. use it on the rough sketches you did before and are now on the wall!)
  
-[Example Intro Wall (empty)](material/precious-design-studio-intro-canvas.jpg)
-[Example Intro Wall (filled)](material/precious-design-studio-intro.jpg)
-[„Sketch, Pitch, Critique“ Template](material/precious-sketch-pitch-critique.pdf)
+[Example Intro Wall (empty)](material/precious-design-studio-intro-canvas.jpg)  
+[Example Intro Wall (filled)](material/precious-design-studio-intro.jpg)  
+[„Sketch, Pitch, Critique“ Template](material/precious-sketch-pitch-critique.pdf)  
 
 ---
 
