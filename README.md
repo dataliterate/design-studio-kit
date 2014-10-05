@@ -166,8 +166,6 @@ These are the three building blocks of Design Studio:
 - don’t write text (unless singular words are needed)
 - give names to your ideas (it helps you reflect and pitch them better)
 
-_Sketching Tip:_ there are always participants telling you (or the whole group) how bad they are at drawing. Pick one of those and let them draw a line. Ask the group if they recognize it as a line. Do the same with a circle, a rectangle and a triangle. Now combine those basic geometric elements and eg. sketch a Dropdown Menu. Now everybody understands that even the people claiming to be bad at drawing are actually really good in sketching.
-
 [8-up Template](material/precious-8up.pdf)  
 [1-up Template](material/precious-1up.pdf)
 
