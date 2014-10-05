@@ -21,7 +21,7 @@ There are a few things that should be considered long enough before you actually
 - each team should be very heterogenous to achieve enough different perspectives and „positive friction“
 - each team needs to have its own facilitator. We had workshops, where single facilitators moved between two teams, but it doesn’t work really well
 
-[Example Group Material Envelope](group-material-envelope.jpg)
+[Example Group Material Envelope](material/precious-1up.pdf)
 
 ---
 
