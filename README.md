@@ -1,4 +1,4 @@
-(Please note: this document is still work in progress)  
+(**Please note**: this document is still work in progress)  
 
 # Design Studio Kit
 
