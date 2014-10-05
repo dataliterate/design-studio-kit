@@ -20,7 +20,9 @@ There are a few things that should be considered long enough before you actually
 - teams with less than 3 people don’t work at all from our experience. Rather use 4
 - each team should be very heterogenous to achieve enough different perspectives and „positive friction“
 - each team needs to have its own facilitator. We had workshops, where single facilitators moved between two teams, but it doesn’t work really well
-- 
+- print out the names of the group members and put them on an envelope (this usually prevents discussions around the team constellations). Put all the material needed in these envelopes – like the persona, other research material, the 8-ups and 1-ups. The scenarios/group tasks should only be handed out right before sketching begins, though).
+
+[Example Group Material Envelope](material/precious-design-studio-group-envelope.png)
 
 ---
 
@@ -33,6 +35,9 @@ There are a few things that should be considered long enough before you actually
 - breaks and food are essential! take your time (like at least 1 hour lunch break) and make sure to have healthy and high quality food. don’t do it the lazy way and just order pizza or use one of those convenient office catering services. Always have in mind that the breaks, the food, the drinks, the coffee have a huge influence on the overall experience of the workshop. And if your goal is to come up with fresh, innovative or even disruptive ideas, offering standard food is probably not the best idea …
 - clarify if there are vegetarians or vegan people involved (or other diets)
 - have some sweets, lemonade, energy bars, espresso at hand if the energy level lowers after 3/4 of the day
+
+[Mobile Walls Example am](material/precious-mobile-wall-am.jpg)
+[Mobile Walls Example pm](material/precious-mobile-wall-pm.jpg)
 
 ---
 
@@ -103,14 +108,14 @@ Every Design Studio Workshop should be based on insight. To gather it, we usuall
 
 [Research Slidedeck](research-slidedeck.pdf)
 
-[Example Persona](precious-persona-example.pdf)
-[Example Scenario/Task](precious-example-scenario.pdf)
+[Example Persona](material/precious-persona-example.pdf)
+[Example Scenario/Task](material/precious-scenario-example.pdf)
 
 ---
 
 #### Book recommendations
-[Just enough research](link.html) by Erika Hall (Rosenfeld Media)
-Kim Goodwin
+[Just enough research](http://www.abookapart.com/products/just-enough-research) by Erika Hall (A Book Apart)
+[Designing for the Digital Age: How to Create Human-Centered Products and Services](http://www.amazon.com/Designing-Digital-Age-Human-Centered-Products/dp/0470229101) by Kim Goodwin (Wiley)
 
 ---
 
@@ -121,8 +126,6 @@ Kim Goodwin
 - Give a simple introduction task to participants: let them sketch something in 5 minutes, put their name on the sheet and then shortly introduce themselves (name, function) and their sketch. This usually prevents too long anecdotes and job title bragging and also sets the mode for the day, where everybody will use a pen and paper and limited time.
 - People have their first contact with the tools they are going to use during the day
 - Show them your timer (eg. pClock for iPhone), so they have already seen an important tool of the day
-
-[Example Introduction Task](introduction-task-example.pdf)
 
 ---
 
@@ -159,6 +162,9 @@ These are the three building blocks of Design Studio:
 - give names to your ideas (it helps you reflect and pitch them better)
 
 _Sketching Tip:_ there are always participants telling you (or the whole group) how bad they are at drawing. Pick one of those and let them draw a line. Ask the group if they recognize it as a line. Do the same with a circle, a rectangle and a triangle. Now combine those basic geometric elements and eg. sketch a Dropdown Menu. Now everybody understands that even the people claiming to be bad at drawing are actually really good in sketching.
+
+[8-up Template](material/precious-8up.pdf)
+[1-up Template](material/precious-1up.pdf)
 
 **2. PITCH**
 - one person talks, everybody else just listens
