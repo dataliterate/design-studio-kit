@@ -44,7 +44,7 @@ There are a few things that should be considered long enough before you actually
 ---
 
 ### Why Design Studio
-If you ask yourself, or if somebody asks you the „Why Design Studio“ question, list the following benefits:
+If you ask yourself, or if somebody asks you the „Why Design Studio“ question, here are some benefits:
 
 - **Interdisciplinary**
 A mix of great people with different kinds of backgrounds and perspectives usually leads to great dynamic and „positive friction“. It’s not only about mixing business, design, technology, editorial and product people – you can also invite some actual target users. If you have the impression of the teams becoming too homogenous (eg. only designers), try to add some people of your company and let them wear a different hat. Or invite friends as „troublemakers“ (so for example, if you have only designers and programmers, try to find a person with a business perspective to take the role of giving the business perspective).
