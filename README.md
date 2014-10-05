@@ -36,7 +36,7 @@ There are a few things that should be considered long enough before you actually
 - clarify if there are vegetarians or vegan people involved (or other diets)
 - have some sweets, lemonade, energy bars, espresso at hand if the energy level lowers after 3/4 of the day
 
-[Mobile Walls Example am](material/precious-mobile-wall-am.jpg)
+[Mobile Walls Example am](material/precious-mobile-wall-am.jpg)  
 [Mobile Walls Example pm](material/precious-mobile-wall-pm.jpg)
 
 ---
