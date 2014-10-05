@@ -1,3 +1,5 @@
+(Please note: this document is still work in progress)  
+
 # Design Studio Kit
 
 **Why we do design studio, how we do it, what we learned and the material we use.**
