@@ -6,7 +6,7 @@
 
 ## General Intro
 
-Since having been trained in the Design Studio Method in 2013 by Todd Zaki Warfel, we conducted a lot of workshop using the method – in all different kinds of contexts: for design teaching, for idea exploration or project kickoff workshops with clients or internally. We have also trained other teams how to use the method. With the **Design Studio Kit** we would like to share what we learned, how we organize and structure these workshops and the materials we used. It’s an ongoing process and you can help us improving it with [getting in touch](designstudiomethod@precious-forever.com) with questions, comments and critique. Thanks & enjoy!
+Since having been trained in the Design Studio Method in 2013 by Todd Zaki Warfel, we conducted a lot of workshop using the method – in all different kinds of contexts: for design teaching, for idea exploration or project kickoff workshops with clients or internally. We have also trained other teams how to use the method. With the **Design Studio Kit** we would like to share what we learned, how we organize and structure these workshops and the materials we used. It’s an ongoing process and you can help us improving it with [getting in touch](mailto:designstudiomethod@precious-forever.com) with questions, comments and critique. Thanks & enjoy!
 
 ---
 
