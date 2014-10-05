@@ -20,8 +20,7 @@ There are a few things that should be considered long enough before you actually
 - teams with less than 3 people don’t work at all from our experience. Rather use 4
 - each team should be very heterogenous to achieve enough different perspectives and „positive friction“
 - each team needs to have its own facilitator. We had workshops, where single facilitators moved between two teams, but it doesn’t work really well
-
-[Example Group Material Envelope](material/precious-1up.pdf)
+- 
 
 ---
 
@@ -133,7 +132,7 @@ Kim Goodwin
 - Talk about breaks – they are the only slots for coffee and checking mails (otherwise the energy breaks)
 - Only use as many slides as necessary. It's about making things and collaborating, not listening to a single person.
 
-[Example Housekeeping slidedeck](housekeeping-example.pdf)
+[Example Housekeeping slidedeck](material/precious-designstudio-housekeeping.pdf)
 
 ---
 
@@ -173,8 +172,8 @@ _Sketching Tip:_ there are always participants telling you (or the whole group) 
 - collect 1-2 remarks why an idea doesn’t work so well
 (red and green pen. use it on the rough sketches you did before and are now on the wall!)
  
-
-[Example Intro Wall](material/precious-design-studio-intro.jpg)
+[Example Intro Wall (empty)](material/precious-design-studio-intro-canvas.jpg)
+[Example Intro Wall (filled)](material/precious-design-studio-intro.jpg)
 [„Sketch, Pitch, Critique“ Template](material/precious-sketch-pitch-critique.pdf)
 
 ---
