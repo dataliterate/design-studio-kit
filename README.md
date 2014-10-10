@@ -1,5 +1,3 @@
-(**Please note**: this document is still work in progress)  
-
 # Design Studio Kit
 
 **Why we do design studio, how we do it, what we learned and the material we use.**
@@ -149,12 +147,15 @@ Every Design Studio Workshop should be based on insight. To gather it, we usuall
 
 Some introductory words:
 
-- We design for people. To be empathetic with them, we sketch User Interfaces: this is how they see and interact with our products.
+- we design for people. To be empathetic with them, we consider actual situations we learned from our research (eg. we use personas and scenarios for our tasks)
+- we sketch User Interfaces: this is how they see and interact with our products
 - It’s about making, not talking. No lengthy discussions.
 - We all work with the same tools: pen and paper (show pen and paper)
 - We work with time boxing, which leads to focus
 - Be very honest and direct with your critique, but always constructive and based on the goals, context, topic, not your personal taste
 - Stealing ideas is highly encouraged! The only requirement: you need to make them better
+- each group has a facilitator to take care of the timing and the overall flow of the iterations
+- we work in an iterative process: Sketch, Pitch, Critique. The critique we get we use for the next sketching iteration …
 
 These are the three building blocks of Design Studio:
 
@@ -163,6 +164,7 @@ These are the three building blocks of Design Studio:
 - nobody talks during this phase
 - time limit
 - don’t think too much, just sketch. Especially in early iterations, try to fill as many boxes of the 8-up as possible (show 8-up on the wall, fill 6 boxes)
+- it’s not about creating pieces of art, it’s about visualizing thoughts and ideas – everybody can do that
 - don’t write text (unless singular words are needed)
 - give names to your ideas (it helps you reflect and pitch them better)
 
@@ -170,13 +172,14 @@ These are the three building blocks of Design Studio:
 [1-up Template](material/precious-1up.pdf)
 
 **2. PITCH**
-- one person talks, everybody else just listens
+- the pitch is a presentation, not a discussion: one person talks, everybody else just listens
 - before you pitch: name the goals, give some context and set expectations
 (put the 8-ups/1-ups on the wall for the pitch. from left to right: rows for participant, columns for iterations)
+- for the pitch, think on the WHAT, but also on the HOW and WHY
 
 **3. CRITIQUE**
 - clarification: ask your questions
-- give critique based on the pitched goals and context
+- give critique based on the pitched goals and context. this is not feedback about your opinion or personal taste
 - collect 2-3 remarks why an idea works well
 - collect 1-2 remarks why an idea doesn’t work so well
 (red and green pen. use it on the rough sketches you did before and are now on the wall!)
@@ -207,6 +210,4 @@ In order to keep the ideas and thoughts for the future in a structured and acces
 
 It’s also possible to hand out the actual walls, so project teams can put them in their working space and go back to it from time to time (or keep on iterating and annotating the original sketches).
 
-> TODO (wird ergänzt)
-
-[Design Studio Workshop Documentation Example](precious-workshop-documentation-example.pdf)
+[Design Studio Workshop Documentation Example](material/precious-design-studio-workshop-documentation.pdf)
