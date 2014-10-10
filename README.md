@@ -26,8 +26,6 @@ There are a few things that should be considered long enough before you actually
 
 [Example Group Material Envelope](material/precious-design-studio-group-envelope.png)
 
----
-
 ### Planning the day
 - we did several half day Design Studios, but now think that it’s always better to have a full day. It’s often not so easy for people especially in large organizations to leave their daily routines and thinking models. It takes time, but we learned that later rounds and iterations usually are better (also because people become more accustomed with the method and the environment)
 - split the day into **Morning** and **Afternoon**. The morning starts with introduction of the teams, the methodology and an immersion with the insight and involves some iterations of Design Studio. After a nice and yummy lunch, several more Design Studio iterations are taking place
@@ -40,8 +38,6 @@ There are a few things that should be considered long enough before you actually
 
 [Mobile Walls Example am](material/precious-mobile-wall-am.jpg)  
 [Mobile Walls Example pm](material/precious-mobile-wall-pm.jpg)
-
----
 
 ### Why Design Studio
 If you ask yourself, or if somebody asks you the „Why Design Studio“ question, here are some benefits:
@@ -60,8 +56,6 @@ Design Studio lets you involve a broad range of different roles and stakeholders
 
 - **Ownership/Investment**
 It’s also a great chance to involve important stakeholders and decision makers very early in the process and help them understand the goals, questions and challenges much better. They experience how the teams work together on ideas and contribute with their own approaches (and also need to take critique from other participants). This usually leads to a high level of investment in the project, and often decision makers already own several ideas that were born as a collaborative team effort during the Design Studio Workshop.
-
----
 
 ### People-centered
 Every Design Studio Workshop should be based on insight. To gather it, we usually spend a lot of effort in preparation of the workshop: it starts with asking good questions to relevant stakeholders, but most often continues with user and literature research. We think this doesn’t have to be a huge project, but little research is always better than no research!
@@ -116,8 +110,6 @@ Every Design Studio Workshop should be based on insight. To gather it, we usuall
 [Example Persona](material/precious-persona-example.pdf)  
 [Example Scenario/Task](material/precious-scenario-example.pdf)
 
----
-
 #### Book recommendations
 [Just enough research](http://www.abookapart.com/products/just-enough-research) by Erika Hall (A Book Apart)  
 [Designing for the Digital Age: How to Create Human-Centered Products and Services](http://www.amazon.com/Designing-Digital-Age-Human-Centered-Products/dp/0470229101) by Kim Goodwin (Wiley)
@@ -132,8 +124,6 @@ Every Design Studio Workshop should be based on insight. To gather it, we usuall
 - People have their first contact with the tools they are going to use during the day
 - Show them your timer (eg. pClock for iPhone), so they have already seen an important tool of the day
 
----
-
 ### Housekeeping
 - Introduce yourself again as the instructor/facilitator of the day
 - Present a well structured agenda of the day
@@ -141,8 +131,6 @@ Every Design Studio Workshop should be based on insight. To gather it, we usuall
 - Only use as many slides as necessary. It's about making things and collaborating, not listening to a single person.
 
 [Example Housekeeping slidedeck](material/precious-designstudio-housekeeping.pdf)
-
----
 
 ### Introducing the Design Studio Method
 - don’t use slides! Design Studio is about making, about creating tactile artifacts. So set the mode with living what you preach. It also helps to actually involve the material that’s being used during the workshop (instead of showing detached photos of the material on slides)
@@ -189,8 +177,6 @@ These are the three building blocks of Design Studio:
 [Example Intro Wall (empty)](material/precious-design-studio-intro-canvas.jpg)  
 [Example Intro Wall (filled)](material/precious-design-studio-intro.jpg)  
 [„Sketch, Pitch, Critique“ Template](material/precious-sketch-pitch-critique.pdf)  
-
----
 
 ### Design Studio Flow and Structure
 There’s no general rule for what the best timeframes are, it really depends on the groups, their experience and the facilitation. We usually start the first sketching iteration with a more limited duration of 3 min, then loosen it a bit to 5 min. We are very sharp with the sketching timing, but sometimes let people pitch or critique a bit longer. Although we want participants to be aware of their time limits, we also don’t want to interrupt a good flow of presentation or critique conversation. 
