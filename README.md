@@ -2,6 +2,8 @@
 
 **Why we do design studio, how we do it, what we learned and the material we use.**
 
+![precious design studio introduction](/material/precious-design-studio-intro.jpg)
+
 ---
 
 ## General Intro
