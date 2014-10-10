@@ -4,8 +4,6 @@
 
 ![precious design studio introduction](/material/precious-design-studio-intro.jpg)
 
----
-
 ## General Intro
 
 Since having been trained in the Design Studio Method in 2013 by [Todd Zaki Warfel](https://twitter.com/zakiwarfel) (watch him give a talk on Design Studio [in this video](http://vimeo.com/37861987)), we conducted a lot of workshops using the method – in all different kinds of contexts: for design teaching, for idea exploration or project kickoff workshops with clients or internally. We have also trained other teams how to use the method. With the **Design Studio Kit** we would like to share what we learned, how we organize and structure these workshops and the materials we used.  
