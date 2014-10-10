@@ -1,7 +1,5 @@
 # Design Studio Kit
 
-##Why we do design studio, how we do it, what we learned so far & the material we use.
-
 ![precious design studio introduction](/material/precious-design-studio-introduction.jpg)
 
 ## General Intro
