@@ -131,7 +131,7 @@ Every Design Studio Workshop should be based on insight. To gather it, we usuall
 [Example Housekeeping slidedeck](material/precious-designstudio-housekeeping.pdf)
 
 ### Introducing the Design Studio Method
-- don’t use slides! Design Studio is about making, about creating tactile artifacts. So set the mode with living what you preach. It also helps to actually involve the material that’s being used during the workshop (instead of showing detached photos of the material on slides)
+- try to avoid slides! Design Studio is about making, about creating tactile artifacts. So set the mode with living what you preach. It also helps to actually involve the material that’s being used during the workshop (instead of showing detached photos of the material on slides)
 
 Some introductory words:
 
