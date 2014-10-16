@@ -173,7 +173,7 @@ These are the three building blocks of Design Studio:
 (red and green pen. use it on the rough sketches you did before and are now on the wall!)
  
 [Example Intro Wall (empty)](material/precious-design-studio-intro-canvas.jpg)  
-[Example Intro Wall (filled)](material/precious-design-studio-intro.jpg)  
+[Example Intro Wall (filled)](material/precious-design-studio-introduction.jpg)  
 [„Sketch, Pitch, Critique“ Template](material/precious-sketch-pitch-critique.pdf)  
 
 ### Design Studio Flow and Structure
